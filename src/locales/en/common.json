@@ -1,0 +1,122 @@
+{
+  "hero": {
+    "title": "VAIlite Content Factory",
+    "tagline": "Revolution in Organic Traffic Generation",
+    "subtitle": "An exclusive system that transforms content into a stream of targeted customers without spending on paid advertising",
+    "cta": "Get Personal Consultation"
+  },
+  "modules": {
+    "title": "Exclusive Technologies",
+    "items": [
+      {
+        "title": "Intelligence Module",
+        "content": "We apply advanced machine learning algorithms to analyze trends in your niche. Our systems track the behavior of millions of users in real time, identifying patterns that are impossible to notice manually. This gives you an undeniable advantage over competitors."
+      },
+      {
+        "title": "Script Workshop",
+        "content": "Our scriptwriters are experts in neuromarketing and psychology of influence. We create content that not only attracts attention but also triggers emotional triggers that prompt action. Each script undergoes rigorous testing on focus groups before production."
+      },
+      {
+        "title": "Video Factory (AI)",
+        "content": "We use cutting-edge AI video generation technologies (HeyGen, Sora) to create content on an industrial scale. Our digital avatars speak any language with any accent, work 24/7 without fatigue, and create content indistinguishable from live actor shoots."
+      },
+      {
+        "title": "Quality Control",
+        "content": "Our multi-level quality control system includes automatic analysis using AI and manual expertise. We guarantee that each video meets high brand standards and effectively achieves set marketing goals."
+      },
+      {
+        "title": "Smart Posting",
+        "content": "Our algorithms determine the optimal posting time for each platform and your target audience. The system automatically adapts content to the specifics of each social network, maximizing organic reach and engagement."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Investment in Your Growth",
+    "period": "rub./month",
+    "featured": "Recommended",
+    "select": "Select Plan",
+    "plans": {
+      "light": {
+        "title": "LIGHT",
+        "price": "149,000",
+        "features": [
+          "200,000+ views",
+          "70 unique videos",
+          "3 accounts for posting",
+          "Basic analytics",
+          "Weekly reports"
+        ]
+      },
+      "start": {
+        "title": "START",
+        "price": "197,000",
+        "features": [
+          "350,000+ views",
+          "120 unique videos",
+          "4 accounts for posting",
+          "Advanced analytics",
+          "Personal manager",
+          "Weekly reports"
+        ]
+      },
+      "pro": {
+        "title": "PRO",
+        "price": "397,000",
+        "features": [
+          "500,000+ views",
+          "150+ unique videos",
+          "15 accounts for posting",
+          "Deep funnel audit",
+          "Marketing audit",
+          "Strategy adjustment",
+          "Priority support"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Success Stories",
+    "items": [
+      {
+        "name": "Alexander Volkov",
+        "role": "Founder, TechVentures",
+        "content": "In three months of working with VAIlite Content Factory, we increased revenue by 420% without spending a single ruble on paid advertising. The system doesn't just generate traffic — it creates a community of loyal customers around our brand. This is an investment that pays off multiple times.",
+        "rating": 5
+      },
+      {
+        "name": "Elena Morozova",
+        "role": "CEO, LuxuryBrand",
+        "content": "We've worked with many marketing agencies, but VAIlite Content Factory exceeded all our expectations. Understanding of our premium segment, exceptional content quality, and impressive results — exactly what's needed for growth in a competitive environment.",
+        "rating": 5
+      },
+      {
+        "name": "Mikhail Petrov",
+        "role": "Investor, AngelFund",
+        "content": "As an investor, I value ROI. VAIlite Content Factory delivers record return on investment among all marketing tools I've seen. This is not just a service — it's a strategic advantage for any business focused on growth.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start Your Transformation",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Your Email",
+    "emailPlaceholder": "Enter your email",
+    "phone": "Your Phone",
+    "phonePlaceholder": "Enter your phone",
+    "company": "Company Name",
+    "companyPlaceholder": "Enter company name",
+    "plan": "Interested Plan",
+    "planPlaceholder": "Select a plan above or type here",
+    "message": "Tell Us About Your Project",
+    "messagePlaceholder": "Describe your goals and expectations",
+    "submit": "Submit Application",
+    "sending": "Sending...",
+    "success": "Application received successfully! We will contact you shortly.",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "copyright": "© 2025 VAIlite Content Factory. All rights reserved. Exclusive traffic generation system."
+  }
+}
